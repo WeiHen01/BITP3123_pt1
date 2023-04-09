@@ -4,7 +4,6 @@ public class Location {
 	
 	private String name;
 	private int locationId;
-	private int description;
 
 	public String getName() {
 		return name;
